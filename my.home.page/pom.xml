@@ -34,7 +34,6 @@
 			<!-- 控制资源文件的拷贝 -->
 			<resource>
 				<directory>src/main/resources</directory>
-				<targetPath>${project.build.directory}</targetPath>
 			</resource>
 		</resources>
 		<plugins>
